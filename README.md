@@ -1,6 +1,6 @@
-# say_love 🌍❤️
+# LinguaLover 🌍❤️
 
-`say_love` is a lightweight Python package that lets you express "I love you" in over 40 languages. Whether you're building multilingual applications or just want to spread love programmatically, this package has you covered!
+`LinguaLover` is a lightweight Python package that lets you express "I love you" in over 40 languages. Whether you're building multilingual applications or just want to spread love programmatically, this package has you covered!
 
 ---
 
@@ -16,4 +16,4 @@
 Install the package using pip:
 
 ```bash
-pip install say_love
+pip install LinguaLover
