@@ -1,0 +1,1 @@
+from .message import say_love
